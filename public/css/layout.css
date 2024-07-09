@@ -174,7 +174,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #fe6928; }
+ul#nav li.current a { color: #d7fe28; }
 
 
 /* ------------------------------------------------------------------ */
@@ -201,9 +201,8 @@ ul#nav li.current a { color: #fe6928; }
    color: #ccc;
 }
 #about .profile-pic {
-   position: relative;
-   width: 120px;
-   height: 120px;
+   position: relative; 
+   height: 200px;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
